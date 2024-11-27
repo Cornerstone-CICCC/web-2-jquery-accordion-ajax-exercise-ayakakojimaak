@@ -41,3 +41,8 @@ body {
 .todos ul {
   margin-left: 0;
 }
+
+.todos li.completed {
+  color: #ccc;
+  text-decoration: line-through;
+}
